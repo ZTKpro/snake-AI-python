@@ -7,7 +7,7 @@
 
 ### How to start?
 
-python ./agent.py
+`python ./agent.py`
 
 
 ### Result:
